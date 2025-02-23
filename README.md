@@ -42,4 +42,4 @@ If you find this repository helpful, don't forget to give it a **Star ⭐** to s
 
 ---
 
-✍️  **Written By** Salah Hassan -  Student and Developer. 😊
+✍️  **Written By :** Salah Hassan -  Student and Developer. 😊
